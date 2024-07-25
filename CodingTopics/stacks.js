@@ -1,8 +1,9 @@
 // STACK - last In, First Out (LIFO)
 // functions: push, pop, peek, length
+// we can implement STACK with just an array
 
 // Array Stack - since arrays have all the funciton of a stack
-// simplex example to understand stacks with palindrome
+// simple example to understand stacks with palindrome
 
 let letters = []; // this is the array stack
 let word = "racecar";
